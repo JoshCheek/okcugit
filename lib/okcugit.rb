@@ -10,8 +10,7 @@ require 'tmpdir'
 class Okcugit
   class Contributor < Struct.new(:name, :email)
     def initialize(name:, email:)
-      self.name = name
-      self.email = email
+      super name, email
     end
   end
 
