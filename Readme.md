@@ -3,6 +3,8 @@ Okcugit
 
 My solutions for [okcugit](https://github.com/turingschool/challenges/blob/master/ok_cugit.markdown).
 
+![Screenshot](screenshot.png)
+
 License
 -------
 
